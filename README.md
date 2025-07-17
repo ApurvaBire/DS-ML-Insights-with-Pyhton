@@ -2,36 +2,30 @@
 
 📊 Data Science & Machine Learning with Python
 A structured and practical repository to learn and apply core data science concepts and machine learning algorithms using the Python programming language.A comprehensive collection of data science fundamentals with Python, covering data acquisition, manipulation, and machine learning algorithms.
-
 This repository contains modular and well-documented Jupyter Notebooks that walk through the complete data science workflow  from data acquisition to model building. Each notebook includes examples, explanations, and visual outputs.
 
 ▪️ Tools & Environment - 
-📍Python 3.x: As the programming language for data science and machine learning tasks.
-📍Anaconda IDE: For managing packages, environments, and providing a user-friendly interface for data science tasks.
-📍Jupyter Notebook	Interactive environment for code, output, and documentation.
+Python 3.x: As the programming language for data science and machine learning tasks.
+Anaconda IDE: For managing packages, environments, and providing a user-friendly interface for data science tasks.
+Jupyter Notebook	Interactive environment for code, output, and documentation.
 
 To get started, install Anaconda and launch Jupyter Notebook from the Navigator or terminal.
 
 ▪️ Libraries Used - 
-📍numpy -	Array creation, mathematical and numerical operations
-📍pandas -	Data loading, wrangling, and preprocessing
-📍matplotlib - Basic visualizations (line plots, bar charts, etc.)
-📍seaborn	- Advanced visualizations and statistical plotting
-📍scikit-learn - 	Machine learning algorithms and model evaluation
-📍scipy	- Scientific computing and statistical utilities
+numpy -	Array creation, mathematical and numerical operations
+pandas -	Data loading, wrangling, and preprocessing
+matplotlib - Basic visualizations (line plots, bar charts, etc.)
+seaborn	- Advanced visualizations and statistical plotting
+scikit-learn - 	Machine learning algorithms and model evaluation
+scipy	- Scientific computing and statistical utilities
 
 ▪️ Install Required Libraries
-
 You can install all required libraries using pip by running the following command in your terminal or Anaconda prompt:
-
 pip install numpy pandas matplotlib seaborn scikit-learn scipy
 
-
-▪️ Topics Covered - This repository provides a structured walkthrough of key concepts and practical techniques in Data Science and Machine Learning using Python. 
-Below is a list of the topics and tools explored:
+▪️ Topics Covered - This repository provides a structured walkthrough of key concepts and practical techniques in Data Science and Machine Learning using Python. Below is a list of the topics and tools explored:
 
 1. Anaconda IDE Setup
-
 Introduction to the Anaconda distribution and its installation for managing Python environments and tools.
 
 2.  Data Acquisition using Pandas
@@ -69,13 +63,10 @@ Applying the SVM algorithm for linear and non-linear classification tasks with h
 
 ▪️ Machine Learning Algorithms - Each ML model includes: Data preparation steps, Model training, Accuracy evaluation, Visualization of results. 
 
-📍Simple Linear Regression	- Predicting continuous values from input variables
-
-📍Logistic Regression	- Classifying binary outcomes (Yes/No, 0/1)
-
-📍K-Nearest Neighbors (KNN)	- Classifying instances based on nearest data points
-
-📍Support Vector Machines (SVM)	- Separating classes using hyperplanes in feature space
+Simple Linear Regression	- Predicting continuous values from input variables
+Logistic Regression	- Classifying binary outcomes (Yes/No, 0/1)
+K-Nearest Neighbors (KNN)	- Classifying instances based on nearest data points
+Support Vector Machines (SVM)	- Separating classes using hyperplanes in feature space
 
 
 
